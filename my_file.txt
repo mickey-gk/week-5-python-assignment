@@ -1,0 +1,5 @@
+--------------------------------------------
+date: 23rd-sep-2024 	FILE NAME: my_file.txt 
+--------------------------------------------
+person's data: 
+details: {'name': 'mickey', 'gender': 'male'} 
